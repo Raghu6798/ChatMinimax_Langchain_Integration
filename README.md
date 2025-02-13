@@ -3,7 +3,8 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
 [![LangChain](https://img.shields.io/badge/langchain-compatible-brightgreen)](https://www.langchain.com/) 
-[![Minimax](https://img.shields.io/badge/minimax)(https://filecdn.minimax.chat/public/00505218-91fd-4f17-a58a-26b655150032.png?x-oss-process=image/format,webp)
+[![MiniMax](https://img.shields.io/badge/MiniMax-Supported-blue?style=flat&logo=appveyor)](https://filecdn.minimax.chat/public/969d635c-cab6-45cc-8d61-47c9fe40c81f.png?x-oss-process=image/format,webp)
+
 
 ## 📌 Overview  
 
