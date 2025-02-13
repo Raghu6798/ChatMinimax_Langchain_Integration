@@ -17,11 +17,10 @@ ChatMinimax is a **LangChain-compatible** chat_model powered by [MiniMax](https:
 - ⚡ **Streaming Support**: Generate responses in real-time.  
 - 🔑 **API Key Authentication**: Uses environment variables for API security.  
 
-## 📦 Installation  
-
-``sh
-cd 
+## 📦 Installation  & Setup
 
 ```sh
 pip install openai langchain-core pydantic
 ```
+
+More documentation will be added in the feature 
