@@ -1,4 +1,4 @@
-# 🚀 ChatMinimax: A MiniMax-Powered Chatbot with Image Support  
+# 🚀 ChatMinimax: A MiniMax-Langchain Integration
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)  
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)  
@@ -8,7 +8,7 @@
 
 ## 📌 Overview  
 
-ChatMinimax is a **LangChain-compatible** chatbot powered by [MiniMax](https://www.minimaxi.com/en), supporting **both text and image inputs**. It uses the **OpenAI SDK** to interact with MiniMax APIs and extends `BaseChatModel` to seamlessly integrate into LangChain workflows.  
+ChatMinimax is a **LangChain-compatible** chat_model powered by [MiniMax](https://www.minimaxi.com/en), supporting **both text and image inputs**. It uses the **OpenAI SDK** to interact with MiniMax APIs and extends `BaseChatModel` to seamlessly integrate into LangChain workflows.  
 
 ## ✨ Features  
 
