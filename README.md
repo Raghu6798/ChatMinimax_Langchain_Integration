@@ -19,6 +19,9 @@ ChatMinimax is a **LangChain-compatible** chat_model powered by [MiniMax](https:
 
 ## 📦 Installation  
 
+``sh
+cd 
+
 ```sh
 pip install openai langchain-core pydantic
 ```
