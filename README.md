@@ -7,7 +7,7 @@
 
 ## 📌 Overview  
 
-ChatMinimax is a **LangChain-compatible** chatbot powered by [MiniMax](https://www.minimaxi.chat/), supporting **both text and image inputs**. It uses the **OpenAI SDK** to interact with MiniMax APIs and extends `BaseChatModel` to seamlessly integrate into LangChain workflows.  
+ChatMinimax is a **LangChain-compatible** chatbot powered by [MiniMax](https://www.minimaxi.com/en), supporting **both text and image inputs**. It uses the **OpenAI SDK** to interact with MiniMax APIs and extends `BaseChatModel` to seamlessly integrate into LangChain workflows.  
 
 ## ✨ Features  
 
